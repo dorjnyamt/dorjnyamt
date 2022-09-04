@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @dorjnyamt.
+- 👀 I’m interested in languages and programming.
+- 🌱 I’m currently challenging myself on DMOJ.
